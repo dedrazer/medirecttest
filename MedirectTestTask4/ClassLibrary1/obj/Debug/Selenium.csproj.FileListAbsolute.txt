@@ -1,0 +1,9 @@
+D:\mmeli\Documents\Visual Studio 2017\Projects\MedirectTestTask4\ClassLibrary1\bin\Debug\Selenium.dll
+D:\mmeli\Documents\Visual Studio 2017\Projects\MedirectTestTask4\ClassLibrary1\bin\Debug\Selenium.pdb
+D:\mmeli\Documents\Visual Studio 2017\Projects\MedirectTestTask4\ClassLibrary1\bin\Debug\WebDriver.dll
+D:\mmeli\Documents\Visual Studio 2017\Projects\MedirectTestTask4\ClassLibrary1\bin\Debug\WebDriver.xml
+D:\mmeli\Documents\Visual Studio 2017\Projects\MedirectTestTask4\ClassLibrary1\obj\Debug\Selenium.csprojAssemblyReference.cache
+D:\mmeli\Documents\Visual Studio 2017\Projects\MedirectTestTask4\ClassLibrary1\obj\Debug\Selenium.csproj.CoreCompileInputs.cache
+D:\mmeli\Documents\Visual Studio 2017\Projects\MedirectTestTask4\ClassLibrary1\obj\Debug\Selenium.csproj.CopyComplete
+D:\mmeli\Documents\Visual Studio 2017\Projects\MedirectTestTask4\ClassLibrary1\obj\Debug\Selenium.dll
+D:\mmeli\Documents\Visual Studio 2017\Projects\MedirectTestTask4\ClassLibrary1\obj\Debug\Selenium.pdb

@@ -1,0 +1,11 @@
+D:\mmeli\Documents\Visual Studio 2017\Projects\MedirectTestTask3\Logic\obj\Debug\Logic.csprojAssemblyReference.cache
+D:\mmeli\Documents\Visual Studio 2017\Projects\MedirectTestTask3\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+D:\mmeli\Documents\Visual Studio 2017\Projects\MedirectTestTask3\Logic\bin\Debug\Newtonsoft.Json.dll
+D:\mmeli\Documents\Visual Studio 2017\Projects\MedirectTestTask3\Logic\bin\Debug\Newtonsoft.Json.xml
+D:\mmeli\Documents\Visual Studio 2017\Projects\MedirectTestTask3\Logic\obj\Debug\Logic.csproj.CopyComplete
+D:\mmeli\Documents\Visual Studio 2017\Projects\MedirectTestTask3\Logic\bin\Debug\Logic.dll
+D:\mmeli\Documents\Visual Studio 2017\Projects\MedirectTestTask3\Logic\bin\Debug\Logic.pdb
+D:\mmeli\Documents\Visual Studio 2017\Projects\MedirectTestTask3\Logic\bin\Debug\Data.dll
+D:\mmeli\Documents\Visual Studio 2017\Projects\MedirectTestTask3\Logic\bin\Debug\Data.pdb
+D:\mmeli\Documents\Visual Studio 2017\Projects\MedirectTestTask3\Logic\obj\Debug\Logic.dll
+D:\mmeli\Documents\Visual Studio 2017\Projects\MedirectTestTask3\Logic\obj\Debug\Logic.pdb

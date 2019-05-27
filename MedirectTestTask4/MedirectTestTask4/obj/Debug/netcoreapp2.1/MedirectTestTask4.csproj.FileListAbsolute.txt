@@ -1,0 +1,12 @@
+D:\mmeli\Documents\Visual Studio 2017\Projects\MedirectTestTask4\MedirectTestTask4\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\mmeli\Documents\Visual Studio 2017\Projects\MedirectTestTask4\MedirectTestTask4\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+D:\mmeli\Documents\Visual Studio 2017\Projects\MedirectTestTask4\MedirectTestTask4\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+D:\mmeli\Documents\Visual Studio 2017\Projects\MedirectTestTask4\MedirectTestTask4\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+D:\mmeli\Documents\Visual Studio 2017\Projects\MedirectTestTask4\MedirectTestTask4\bin\Debug\netcoreapp2.1\MedirectTestTask4.deps.json
+D:\mmeli\Documents\Visual Studio 2017\Projects\MedirectTestTask4\MedirectTestTask4\bin\Debug\netcoreapp2.1\MedirectTestTask4.runtimeconfig.json
+D:\mmeli\Documents\Visual Studio 2017\Projects\MedirectTestTask4\MedirectTestTask4\bin\Debug\netcoreapp2.1\MedirectTestTask4.runtimeconfig.dev.json
+D:\mmeli\Documents\Visual Studio 2017\Projects\MedirectTestTask4\MedirectTestTask4\bin\Debug\netcoreapp2.1\MedirectTestTask4.dll
+D:\mmeli\Documents\Visual Studio 2017\Projects\MedirectTestTask4\MedirectTestTask4\obj\Debug\netcoreapp2.1\MedirectTestTask4.csprojAssemblyReference.cache
+D:\mmeli\Documents\Visual Studio 2017\Projects\MedirectTestTask4\MedirectTestTask4\obj\Debug\netcoreapp2.1\MedirectTestTask4.csproj.CoreCompileInputs.cache
+D:\mmeli\Documents\Visual Studio 2017\Projects\MedirectTestTask4\MedirectTestTask4\obj\Debug\netcoreapp2.1\MedirectTestTask4.AssemblyInfoInputs.cache
+D:\mmeli\Documents\Visual Studio 2017\Projects\MedirectTestTask4\MedirectTestTask4\obj\Debug\netcoreapp2.1\MedirectTestTask4.AssemblyInfo.cs
