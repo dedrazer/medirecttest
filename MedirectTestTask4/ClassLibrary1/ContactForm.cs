@@ -8,6 +8,16 @@ namespace Selenium
 {
     public static class ContactForm 
     {
+        /// <summary>
+        /// fill out contact form
+        /// </summary>
+        /// <param name="browser">dependency injection</param>
+        /// <param name="name">name</param>
+        /// <param name="surname">surname</param>
+        /// <param name="email">email</param>
+        /// <param name="subjectID">dropdown ID, will be amended to fit</param>
+        /// <param name="phoneNumber">phone number</param>
+        /// <param name="message">message</param>
         public static void FillContactForm(
             Browser browser, string name, string surname, string email, int subjectID, string phoneNumber, string message)
         {

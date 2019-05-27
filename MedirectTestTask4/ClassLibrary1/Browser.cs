@@ -13,37 +13,67 @@ namespace Selenium
     {
         IWebDriver driver = new FirefoxDriver();
 
+        /// <summary>
+        /// direct browser to a URL
+        /// </summary>
+        /// <param name="url">URL</param>
         public void SetUrl(string url)
         {
             if (!driver.Url.Equals(url))
                 driver.Url = url;
         }
 
+        /// <summary>
+        /// return URL
+        /// </summary>
+        /// <returns>URL</returns>
         public string GetUrl()
         {
             return driver.Url;
         }
 
+        /// <summary>
+        /// close the browser
+        /// </summary>
         public void Close()
         {
             driver.Close();
         }
 
+        /// <summary>
+        /// get an element using its ID
+        /// </summary>
+        /// <param name="id">ID</param>
+        /// <returns>element</returns>
         public IWebElement GetElementById(string id)
         {
             return driver.FindElement(By.Id(id));
         }
 
+        /// <summary>
+        /// get an element using its XPath
+        /// </summary>
+        /// <param name="XPath">XPath</param>
+        /// <returns>element</returns>
         public IWebElement GetElementByXPath(string XPath)
         {
             return driver.FindElement(By.XPath(XPath));
         }
 
+        /// <summary>
+        /// identify an element by its ID and type text into it
+        /// </summary>
+        /// <param name="id">element ID</param>
+        /// <param name="text">text</param>
         public void TypeIntoID(string id, string text)
         {
             GetElementById(id).SendKeys(text);
         }
 
+        /// <summary>
+        /// identify an element by its XPath and click on it
+        /// </summary>
+        /// <param name="XPath">XPath</param>
         public void ClickOnXPath(string XPath)
         {
             IWebElement element = GetElementByXPath(XPath);
@@ -51,6 +81,10 @@ namespace Selenium
             element.Click();
         }
 
+        /// <summary>
+        /// identify an element by its ID and click on it
+        /// </summary>
+        /// <param name="ID">ID</param>
         public void ClickOnID(string ID)
         {
             IWebElement element = GetElementById(ID);
@@ -58,6 +92,10 @@ namespace Selenium
             element.Click();
         }
 
+        /// <summary>
+        /// scroll an element into view
+        /// </summary>
+        /// <param name="element">element</param>
         public void ScrollIntoView(IWebElement element)
         {
             try
@@ -70,6 +108,12 @@ namespace Selenium
             }
         }
 
+        /// <summary>
+        /// click on a hyperlink and return the result URL
+        /// </summary>
+        /// <param name="XPath">hyperlink XPath</param>
+        /// <param name="destinationURL">desired destination</param>
+        /// <returns>success state</returns>
         public bool TestHyperlink(string XPath, string destinationURL)
         {
             ClickOnXPath(XPath);
